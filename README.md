@@ -3,7 +3,8 @@
 This project modernizes a classic jukebox radio into a fully functional music player using an Arduino Uno microcontroller. It features an interactive song selection mechanism, vibrant LEDs, and high-quality audio playback.
 
 
-![Jukebox Design](jukebox_sticker.png)
+<img src="jukebox.png" alt="Jukebox Design" width="500" height="300">
+
 
 ## Features
 
